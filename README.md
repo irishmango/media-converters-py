@@ -1,4 +1,4 @@
-# Python Mini Projects: Media Converters
+# Python Media Converters
 
 Utilities to convert videos (to MP4 and WebM) and batch-convert images to WebP.
 
